@@ -1,2 +1,2 @@
 leonardo-admin>=2015.7.0
-django-material==0.4.1
+django-material==0.7.0

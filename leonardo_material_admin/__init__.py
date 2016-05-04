@@ -5,7 +5,7 @@ from django.utils.translation import ugettext_lazy as _
 
 default_app_config = 'leonardo_material_admin.Config'
 
-LEONARDO_ORDERING = 100
+LEONARDO_ORDERING = -100
 
 LEONARDO_APPS = [
     'material',
